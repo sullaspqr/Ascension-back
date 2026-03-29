@@ -1,5 +1,5 @@
 {
-  "name": "ascension-backend-ai",
+  "name": "ascension-backend",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
@@ -12,6 +12,9 @@
     "express": "^5.2.1",
     "jsonwebtoken": "^9.0.2",
     "multer": "^2.0.2",
-    "mysql2": "^3.20.0"
+    "mysql2": "^3.20.0",
+    "sequelize": "^6.37.8",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
   }
 }
